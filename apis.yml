@@ -1,9 +1,26 @@
 aid: andela
 name: Andela
-description: 'Andela is a company surfaced as a portfolio company of gv, softbank-vision-fund, susa-ventures
-  and added to the API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is
-  a lead awaiting the enrichment pipeline.'
+description: 'Andela is a global talent platform and AI services provider founded in 2014 by Jeremy
+  Johnson, connecting enterprises with vetted, remote technologists and AI engineers across 135+
+  countries. It grew into a unicorn (valued at $1.5B in 2021) serving 650+ clients, with a network
+  of 200,000+ trained technologists. Its services span hiring AI engineers for application building,
+  systems integration, and platform engineering; building enterprise AI solutions from data readiness
+  to production deployment; and upskilling teams through AI curricula developed with partners such as
+  NVIDIA and Google. Andela operates a fully remote model and is backed by GV, SoftBank Vision Fund,
+  and Susa Ventures. It publishes no public developer API.'
 url: https://raw.githubusercontent.com/api-evangelist/andela/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://avatars.githubusercontent.com/u/4100206?v=4
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -18,6 +35,13 @@ modified: '2026-07-17'
 tags:
 - Company
 - Enterprise
+- Talent
+- AI
+- Engineering
+- Staffing
+- Remote Work
+- Developer Talent
+- Recruiting
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,4 +50,23 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://andela.com
+  url: https://andela.com
+- type: GitHubOrganization
+  url: https://github.com/andela
+- type: Support
+  url: https://help.andela.com/hc/en-us
+- type: Blog
+  url: https://andela.com/publication
+- type: SignUp
+  url: https://talent.andela.com/signup
+- type: PrivacyPolicy
+  url: https://andela.com/privacy-policy
+- type: TermsOfService
+  url: https://andela.com/terms-of-use
+- type: DomainSecurity
+  url: security/andela-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

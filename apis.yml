@@ -9,6 +9,17 @@ description: 'Andela is a global talent platform and AI services provider founde
   NVIDIA and Google. Andela operates a fully remote model and is backed by GV, SoftBank Vision Fund,
   and Susa Ventures. It publishes no public developer API.'
 url: https://raw.githubusercontent.com/api-evangelist/andela/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

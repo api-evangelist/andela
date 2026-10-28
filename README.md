@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Andela is a company surfaced as a portfolio company of gv, softbank-vision-fund, susa-ventures and added to the API Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the enrichment pipeline.
+Andela is a global talent platform and AI services provider founded in 2014 by Jeremy Johnson, connecting enterprises with vetted, remote technologists and AI engineers across 135+ countries. It grew into a unicorn (valued at $1.5B in 2021) serving 650+ clients, with a network of 200,000+ trained technologists. Its services span hiring AI engineers for application building, systems integration, and platform engineering; building enterprise AI solutions from data readiness to production deployment; and upskilling teams through AI curricula developed with partners such as NVIDIA and Google. Andela operates a fully remote model and is backed by GV, SoftBank Vision Fund, and Susa Ventures. It publishes no public developer API.
 
-Backed by: gv, softbank-vision-fund, susa-ventures — http://andela.com
+**Areas:** Company · Enterprise · Talent · Artificial Intelligence · Engineering · Staffing · Remote Work · Developer Talent · Recruiting
+
+## Andela on APIs.io
+
+Everything profiled for Andela is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/andela/](https://apis.io/providers/andela/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Andela Domain Security](https://apis.io/security/andela/andela-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://andela.com)
+- [Sign up](https://talent.andela.com/signup)
+- [Support](https://help.andela.com/hc/en-us)
+- [Blog](https://andela.com/publication)
+- [Terms of service](https://andela.com/terms-of-use)
+- [Privacy policy](https://andela.com/privacy-policy)
+- [GitHub](https://github.com/andela)
+
+## API Evangelist rating
+
+**Kin Score 10.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/andela/](https://apis.io/providers/andela/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Andela: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/andela/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
